@@ -1,7 +1,7 @@
-## Sidi-Eenterprise-Limited Report
+## Sidi-Enterprise-Limited Report
 Analyzed a company’s employee dataset to uncover key insights into recruitment trends.
 
-# KEY INSIGHTS GENERATED
+# Key Insights Generated
 
 High Recruitment in 2021
 
