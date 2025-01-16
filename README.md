@@ -28,3 +28,5 @@ High Representation in the IT Department
 Insight: The IT department has the largest percentage of employees within the company, with a nearly equal gender distribution of 12.20% male and 11.90% female employees. This balanced representation could contribute to a dynamic and collaborative team environment, which is essential in an area as innovation-driven as IT.
 Observation: The gender balance in IT is a positive sign of diversity and inclusion, which may enhance collaboration and creativity. It also reflects the company's efforts in promoting gender equity in a field that often skews male-dominated.
 Recommendation: Continue fostering diversity within the IT department to maintain this balance and extend such efforts to other departments. This can be achieved through mentorship programs, inclusive hiring practices, and leadership training. Additionally, assess the department size to ensure that it meets current and future technological needs without leading to an imbalance in resource allocation.
+# Project Link
+https://drive.google.com/drive/folders/18FNeB4yoV7_GqEstvPlo3QVwX8G78HtG?usp=drive_link
